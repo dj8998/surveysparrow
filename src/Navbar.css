@@ -1,0 +1,61 @@
+.button_prop{
+	color: #ECF1FB !important;
+	margin-left: 40px !important;
+}
+
+
+.headtag{
+	color: #ECF1FB !important;
+
+}
+
+.appbar{
+	box-shadow: 0 !important;
+}
+
+.button_prop:hover{
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 5px solid white;
+	background-color: white !important;
+	color: black !important;
+	border-radius: 30px;
+}
+
+.icon{
+	position: absolute;
+    bottom:40px;
+    right: 40px;
+    border: 8px double white;
+	border-radius: 40px 40px 0px;
+	background-color: white;
+}
+
+.icon:hover{
+	-webkit-transition: background-color 1s; 
+	background-color: #ECF1FB;
+  cursor: pointer;
+  border: 8px double #ECF1FB;
+}
+
+.chatbox{
+	border: 0 !important;
+	box-shadow: 0 !important;
+	position: absolute !important;
+	bottom:160px;
+    right: 40px;
+    border-style: none !important;
+}
+
+.cross{
+	position: relative;
+    bottom:-100px;
+    right: 0px;
+    border: 8px double white;
+	border-radius: 40px 40px 0px;
+	background-color: white;
+}
+
+.chatbot{
+
+}
